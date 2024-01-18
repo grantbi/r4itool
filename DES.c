@@ -24,7 +24,7 @@
    IN THE SOFTWARE.
 */
 
-#include "des.h"
+#include "DES.h"
 
 // Globals
 
